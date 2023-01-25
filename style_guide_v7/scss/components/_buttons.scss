@@ -10,32 +10,34 @@
     padding: 10px 0;
     text-transform: uppercase;
     border-radius: 5px;
-    transition: background-color .2s ease-in-out, color .7s ease-in-out;
+    transition:
+      background-color .2s ease-in-out, 
+      color .7s ease-in-out;
     &:hover {
         color: $black;
-        background-color: lighten($light-pink, 15%);
+        background-color: lighten($turquoise-blue, 15%);
         border: 2px solid $yellow-orange;
       }
   }
   
   .default {
-    background-color: $regent-st-blue;
+    background-color: $turquoise-blue;
   }
   
   .error {
-    background-color: $light-red;
+    background-color: $froly;
   }
   
   .info {
-    background-color: $river-bed ;
+    background-color: $middle-blue-purple;
   }
   
   .success {
-    background-color: $green;
+    background-color: $emerald;
   }
   
   .warning {
-    background-color: $light-orange;
+    background-color: $coral;
   }
   
   

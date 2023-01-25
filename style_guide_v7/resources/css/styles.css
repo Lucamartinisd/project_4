@@ -453,7 +453,7 @@ a {
 /* line 14, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
 .btn:hover {
   color: #000;
-  background-color: #f9f1fc;
+  background-color: #e8f4f8;
   border: 2px solid #ffa949;
 }
 
@@ -619,7 +619,7 @@ a {
 
 /* line 43, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-6 {
-  background-color: #add8e6;
+  background-color: #1cc6ff;
 }
 
 /* line 47, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
@@ -649,7 +649,7 @@ a {
 
 /* line 67, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-12 {
-  background-color: #add8e6;
+  background-color: #0c536b;
 }
 
 /* line 71, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
