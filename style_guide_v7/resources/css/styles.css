@@ -386,7 +386,7 @@ template {
 /* line 6, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/base/_typography.scss */
 * {
   font-family: 'Lato', sans-serif;
-  color: #878787;
+  color: #777;
   box-sizing: border-box;
 }
 
@@ -405,19 +405,19 @@ a {
 /* ============================================= */
 /* line 25, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/base/_typography.scss */
 .headline-primary {
-  color: #add8e6;
+  color: #58e1c1;
   margin-left: 10px;
 }
 
 /* line 30, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/base/_typography.scss */
 .headline-secondary {
   font-weight: 300;
-  color: #878787;
+  color: #777;
 }
 
 /* line 35, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/base/_typography.scss */
 .link {
-  color: #add8e6;
+  color: #51ddfc;
   font-weight: 700;
 }
 
@@ -447,37 +447,37 @@ a {
   padding: 10px 0;
   text-transform: uppercase;
   border-radius: 5px;
-  transition: background-color .2s ease-in-out, color .7s ease-in-out;
+  transition: background-color .2s ease-in-out,  color .7s ease-in-out;
 }
 
-/* line 14, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
+/* line 16, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
 .btn:hover {
   color: #000;
-  background-color: #e8f4f8;
-  border: 2px solid #ffa949;
+  background-color: #9cecfd;
+  border: 2px solid #927bc1;
 }
 
-/* line 21, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
+/* line 23, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
 .default {
-  background-color: #add8e6;
+  background-color: #51ddfc;
 }
 
-/* line 25, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
+/* line 27, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
 .error {
   background-color: #e4757a;
 }
 
-/* line 29, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
+/* line 31, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
 .info {
-  background-color: #48525c;
+  background-color: #927bc1;
 }
 
-/* line 33, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
+/* line 35, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
 .success {
-  background-color: #88d9a0;
+  background-color: #63cc82;
 }
 
-/* line 37, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
+/* line 39, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_buttons.scss */
 .warning {
   background-color: #fd7856;
 }
@@ -497,7 +497,7 @@ a {
   margin: 10px auto 0;
   border: none;
   padding: 10px;
-  border-bottom: 5px solid #88d9a0;
+  border-bottom: 5px solid #58e1c1;
 }
 
 /* line 18, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_forms.scss */
@@ -528,13 +528,13 @@ a {
   padding: 10px 0;
   display: block;
   width: 100%;
-  transition: background-color .2s ease-in-out, color .2s ease-in-out;
+  transition: background-color .2s ease-in-out,  color .2s ease-in-out;
 }
 
-/* line 20, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_navigation.scss */
+/* line 21, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_navigation.scss */
 .nav-link:hover {
   color: #fff;
-  background-color: #add8e6;
+  background-color: #58e1c1;
 }
 
 /* ============================================= */
@@ -594,7 +594,7 @@ a {
 
 /* line 23, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-1 {
-  background-color: #48525c;
+  background-color: #927bc1;
 }
 
 /* line 27, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
@@ -609,7 +609,7 @@ a {
 
 /* line 35, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-4 {
-  background-color: #add8e6;
+  background-color: #7ee6fd;
 }
 
 /* line 39, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
@@ -619,17 +619,17 @@ a {
 
 /* line 43, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-6 {
-  background-color: #1cc6ff;
+  background-color: #4da2bb;
 }
 
 /* line 47, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-7 {
-  background-color: #e4757a;
+  background-color: #ec9fa3;
 }
 
 /* line 51, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-8 {
-  background-color: #fd7856;
+  background-color: #fd9f85;
 }
 
 /* line 55, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
@@ -639,17 +639,17 @@ a {
 
 /* line 59, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-10 {
-  background-color: #88d9a0;
+  background-color: #63cc82;
 }
 
 /* line 63, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-11 {
-  background-color: #48525c;
+  background-color: #51ddfc;
 }
 
 /* line 67, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */
 .theme.col-12 {
-  background-color: #0c536b;
+  background-color: #80e8d1;
 }
 
 /* line 71, ../../../OneDrive/Documents/GitHub/project_4/style_guide_v7/scss/components/_grid.scss */

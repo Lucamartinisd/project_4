@@ -2,10 +2,7 @@
 
 $white          : #fff;
 $black          : #000;
-
-$regent-st-blue : #add8e6;
-
-
+$very-light-grey    :#ccc;
 $grey               : #777;
 $downy              : #58e1c1;
 $middle-blue-purple : #927bc1;
@@ -19,11 +16,11 @@ $vivid-tangerine    : #fd9f85;
 $froly              : #e4757a;
 $emerald            : #63cc82;
 $turquoise-blue     : #51ddfc;
-$riptide            : #80E8D1;
+$riptide            : #80e8d1;
 
 
 // Media query breakpoints
 
-$brk-narrow : '(max-width: 768px)';
-$brk-wide   : '(max-width: 1024px);'
+$brk-narrow : 768px;
+
 
