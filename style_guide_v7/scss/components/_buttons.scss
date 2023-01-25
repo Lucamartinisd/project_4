@@ -10,6 +10,12 @@
     padding: 10px 0;
     text-transform: uppercase;
     border-radius: 5px;
+    transition: background-color .2s ease-in-out, color .7s ease-in-out;
+    &:hover {
+        color: $black;
+        background-color: lighten($light-pink, 15%);
+        border: 2px solid $yellow-orange;
+      }
   }
   
   .default {
@@ -25,7 +31,7 @@
   }
   
   .success {
-    background-color: $regent-st-blue;
+    background-color: $green;
   }
   
   .warning {
